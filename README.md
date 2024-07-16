@@ -1,1 +1,1 @@
-# Java 23中设计模式Demo总结
+# Java 23种设计模式Demo总结
